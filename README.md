@@ -67,29 +67,23 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambeginscreate&show_icons=true&theme=dark&count_private=true)](https://github.com/shivambeginscreate)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambegins&show_icons=true&theme=dark&count_private=true)](https://github.com/shivambegin)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambeginscreate&layout=compact&theme=dark)](https://github.com/shivambeginscreate)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambegins&layout=compact&theme=dark)](https://github.com/shivambegins)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Advanced System Design** - Building scalable applications
-- **Cloud Technologies** - AWS, GCP, Azure
-- **DevOps & CI/CD** - Docker, Kubernetes, GitHub Actions
-- **Data Structures & Algorithms** - Competitive Programming
+- **Advanced System Design** - 
+- **Cloud Technologies** - 
+- **DevOps & CI/CD** - 
+- **Data Structures & Algorithms** -
 
 ---
 
 ## 🎯 Goals for 2026
 
-- ✅ Build 5+ production-ready projects
-- ✅ Contribute to open-source projects
-- ✅ Master full-stack development
-- ✅ Secure a placement in a top-tier company
-
----
 
 ## 📫 Connect With Me
 
