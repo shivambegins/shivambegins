@@ -65,11 +65,18 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambegins&show_icons=true&theme=dark&count_private=true)](https://github.com/shivambegin)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambegins&layout=compact&theme=dark)](https://github.com/shivambegins)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambegins&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)](https://github.com/shivambegins)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambegins&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)](https://github.com/shivambegins)
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=shivambegins&theme=dark-dimmed&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)](https://github.com/shivambegins)
+
+</div>
 
 ---
 
