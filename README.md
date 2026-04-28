@@ -99,7 +99,7 @@ Engineering Student • Building real-world projects • Open to opportunities
 
 | | |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/shivambegins](https://linkedin.com/in/shivambegins) |
+| 💼 LinkedIn | [linkedin.com/in/shivambegins]([https://linkedin.com/in/shivambegins](https://www.linkedin.com/in/shivam-singh-ab68682a1?utm_source=share_via&utm_content=profile&utm_medium=member_android)) |
 | 📧 Email | engg.shivamsingh7080@gmail.com |
 | 🌐 Portfolio | [shivambegins.com](https://shivambegins.com) |
 | 💻 LeetCode | [leetcode.com/shivambegins](https://leetcode.com/shivambegins) |
