@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - 🚀 **Problem Solver** passionate about algorithms and system design
 - 📚 **Lifelong Learner** constantly exploring new technologies and best practices
 - 🤝 **Team Player** with excellent communication and collaboration skills
-  
+- 🏆 **Placement-Ready** with industry-standard projects and skills
 
 ---
 
@@ -80,8 +80,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambegins&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff)](https://github.com/shivambegins)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambegins&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)](https://github.com/shivambegins)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivambegins&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&dates=ffffff)](https://github.com/shivambegins)
 
 </div>
 
@@ -170,6 +168,15 @@ I'm actively looking for:
 - ✅ **Placement Offers** - Immediate or after graduation
 - ✅ **Freelance Projects** - Web development and consulting
 - ✅ **Open Source Contributions** - Learning and growing together
+
+---
+
+## 📅 Check Out My Contribution Activity
+
+Visit my profile to see my contribution graph and recent activity:
+- 🟢 **Contribution Calendar** - Shows your daily commits and activity
+- 📈 **Contribution Graph** - Displays your coding consistency
+- 🏆 **Achievements** - Unlocked through regular contributions
 
 ---
 
