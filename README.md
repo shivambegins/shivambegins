@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - 🚀 **Problem Solver** passionate about algorithms and system design
 - 📚 **Lifelong Learner** constantly exploring new technologies and best practices
 - 🤝 **Team Player** with excellent communication and collaboration skills
-- 🏆 **Placement-Ready** with industry-standard projects and skills
+  
 
 ---
 
