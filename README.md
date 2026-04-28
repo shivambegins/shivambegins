@@ -2,7 +2,7 @@
 
 <!-- Animated typing name -->
 <a href="https://github.com/shivambegins">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam" alt="Typing SVG" />
 </a>
 
 Engineering Student • Building real-world projects • Open to opportunities
@@ -16,7 +16,7 @@ Engineering Student • Building real-world projects • Open to opportunities
 - 🎓 B.Tech Computer Science student with hands-on full-stack experience
 - 🔨 I build projects that solve real problems, not just tutorials
 - 🎯 Focused on clean code, good architecture, and great UX
-- 📫 Reach me at **shivambegins@gmail.com**
+- 📫 Reach me at **engg.shivamsingh7080@gmail.com**
 
 ---
 
@@ -100,7 +100,7 @@ Engineering Student • Building real-world projects • Open to opportunities
 | | |
 |---|---|
 | 💼 LinkedIn | [linkedin.com/in/shivambegins](https://linkedin.com/in/shivambegins) |
-| 📧 Email | shivambegins@gmail.com |
+| 📧 Email | engg.shivamsingh7080@gmail.com |
 | 🌐 Portfolio | [shivambegins.com](https://shivambegins.com) |
 | 💻 LeetCode | [leetcode.com/shivambegins](https://leetcode.com/shivambegins) |
 
